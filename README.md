@@ -36,8 +36,10 @@ The project focuses on designing and developing a USB charger PCB. The primary f
 
 ## Schematic
 
+- Schematic Diagram
 ![shematic diagram of USB charger PCB](<HOPE USB Charger- Tatenda/images/schematic.png>)
 
+- PCB Diagram
 ![pcb diagram of USB charger PCB](<HOPE USB Charger- Tatenda/images/pcb.png>)
 
 
