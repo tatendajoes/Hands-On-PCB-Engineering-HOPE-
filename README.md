@@ -2,7 +2,7 @@
 **Mentor:** Nehemiah Edison  
 **Mentee:** Tatenda Joseph
 
-![Block diagram of USB charger PCB](<HOPE USB Charger- Tatenda/images/3Dimage.jpg>)
+![3D diagram of USB charger PCB](<HOPE USB Charger- Tatenda/images/3Dimage.jpg>)
 ## Overview
 The project focuses on designing and developing a USB charger PCB. The primary function is to provide a regulated 5 V DC supply to charge USB devices (smartphones, tablets, etc.).
 
@@ -33,6 +33,13 @@ The project focuses on designing and developing a USB charger PCB. The primary f
 - Create BOM and submit to Oshpark  
 - Order parts from DigiKey and assemble PCB  
 - Test and validate performance
+
+## Schematic
+
+![Block diagram of USB charger PCB](<HOPE USB Charger- Tatenda/images/schematic.jpg>)
+
+![Block diagram of USB charger PCB](<HOPE USB Charger- Tatenda/images/pcb.jpg>)
+
 
 ## Specifications
 | Parameter             | Specification                 |
