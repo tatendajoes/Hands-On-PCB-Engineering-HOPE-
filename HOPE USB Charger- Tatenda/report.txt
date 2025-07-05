@@ -1,0 +1,416 @@
+Info: Processing symbol 'C1:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C14:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C13:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C19:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C18:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C16:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C17:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'D1:Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Processing symbol 'D2:Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Processing symbol 'J1:AAMU Senior Design 2024-25:CUI_UJ2-AH-1-SMT'.
+Info: Processing symbol 'J2:AAMU Senior Design 2024-25:CUI_UJ2-AH-1-SMT'.
+Info: Processing symbol 'L1:Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R11:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R12:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R13:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'U1:AAMU Senior Design 2024-25:RNP0030A'.
+Info: Processing symbol 'U2:AAMU Senior Design 2024-25:RTE0016C'.
+Info: Processing symbol 'U3:AAMU Senior Design 2024-25:RTE0016C'.
+Connected C2 pin 2 to GND.
+Add net +12V.
+Connected C2 pin 1 to +12V.
+Added C3 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C3.
+Changed C3 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 10uF.
+Updated C3 symbol association from  to /19286bda-7a7a-4466-992b-d0f40b0c6c4e.
+Updated C3 fields.
+Updated C3 sheetname to 'Root'.
+Updated C3 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated C3 footprint filters to 'C_*'.
+Connected C3 pin 1 to +12V.
+Connected C3 pin 2 to GND.
+Added C4 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C4.
+Changed C4 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 10uF.
+Updated C4 symbol association from  to /04ccd5c6-15b2-4030-945e-ed818584f25c.
+Updated C4 fields.
+Updated C4 sheetname to 'Root'.
+Updated C4 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated C4 footprint filters to 'C_*'.
+Connected C4 pin 1 to +12V.
+Connected C4 pin 2 to GND.
+Added C5 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C5.
+Changed C5 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 0.47uF.
+Updated C5 symbol association from  to /ef5993d3-073b-4f01-b6a1-0fe2b9706ae6.
+Updated C5 fields.
+Updated C5 sheetname to 'Root'.
+Updated C5 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated C5 footprint filters to 'C_*'.
+Connected C5 pin 1 to +12V.
+Connected C5 pin 2 to GND.
+Added C6 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C6.
+Changed C6 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 47uF.
+Updated C6 symbol association from  to /00fe3671-6971-4a1d-9a66-dda608e3093a.
+Updated C6 fields.
+Updated C6 sheetname to 'Root'.
+Updated C6 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated C6 footprint filters to 'C_*'.
+Connected C6 pin 2 to GND.
+Add net /VOUT.
+Connected C6 pin 1 to /VOUT.
+Added C7 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C7.
+Changed C7 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 47uF.
+Updated C7 symbol association from  to /8db145ac-a443-40e6-a1bf-7e9539908e10.
+Updated C7 fields.
+Updated C7 sheetname to 'Root'.
+Updated C7 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated C7 footprint filters to 'C_*'.
+Connected C7 pin 1 to /VOUT.
+Connected C7 pin 2 to GND.
+Added C8 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C8.
+Changed C8 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 47uF.
+Updated C8 symbol association from  to /60575305-37fa-4438-99a9-70368577a35f.
+Updated C8 fields.
+Updated C8 sheetname to 'Root'.
+Updated C8 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated C8 footprint filters to 'C_*'.
+Connected C8 pin 1 to /VOUT.
+Connected C8 pin 2 to GND.
+Added C9 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C9.
+Changed C9 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 47uF.
+Updated C9 symbol association from  to /c17b6783-4fc2-4924-acce-468ea2bac7e7.
+Updated C9 fields.
+Updated C9 sheetname to 'Root'.
+Updated C9 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated C9 footprint filters to 'C_*'.
+Connected C9 pin 2 to GND.
+Connected C9 pin 1 to /VOUT.
+Added C10 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C10.
+Changed C10 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 47uF.
+Updated C10 symbol association from  to /0f25906a-1385-4035-a5d8-c43b97dbfe95.
+Updated C10 fields.
+Updated C10 sheetname to 'Root'.
+Updated C10 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated C10 footprint filters to 'C_*'.
+Connected C10 pin 2 to GND.
+Connected C10 pin 1 to /VOUT.
+Added C11 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C11.
+Changed C11 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 47uF.
+Updated C11 symbol association from  to /2349d69c-5e6f-4ee1-b4f1-8996a50e921d.
+Updated C11 fields.
+Updated C11 sheetname to 'Root'.
+Updated C11 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated C11 footprint filters to 'C_*'.
+Connected C11 pin 1 to /VOUT.
+Connected C11 pin 2 to GND.
+Added C12 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C12.
+Changed C12 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 0.47uF.
+Updated C12 symbol association from  to /210c44ad-f5fc-4b04-afed-6277b7e008d1.
+Updated C12 fields.
+Updated C12 sheetname to 'Root'.
+Updated C12 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated C12 footprint filters to 'C_*'.
+Connected C12 pin 2 to GND.
+Connected C12 pin 1 to /VOUT.
+Added C13 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C13.
+Changed C13 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 0.022uF.
+Updated C13 symbol association from  to /689d0605-5dd5-4adc-8e06-5128acd837bf.
+Updated C13 fields.
+Updated C13 sheetname to 'Root'.
+Updated C13 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated C13 footprint filters to 'C_*'.
+Connected C13 pin 1 to /VOUT.
+Add net /CS.
+Connected C13 pin 2 to /CS.
+Added C14 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C14.
+Changed C14 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 0.1uF.
+Updated C14 symbol association from  to /54368b59-0083-4ce2-8e27-e1faf3f807eb.
+Updated C14 fields.
+Updated C14 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated C14 footprint filters to 'C_*'.
+Connected C14 pin 1 to /VOUT.
+Connected C14 pin 2 to GND.
+Added C15 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C15.
+Changed C15 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 0.1uF.
+Updated C15 symbol association from  to /e1a83c1a-e9d5-4eb2-84d7-cf7e96ed6b5c.
+Updated C15 fields.
+Updated C15 sheetname to 'Root'.
+Updated C15 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated C15 footprint filters to 'C_*'.
+Connected C15 pin 1 to /VOUT.
+Connected C15 pin 2 to GND.
+Added C16 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C16.
+Changed C16 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 0.1uF.
+Updated C16 symbol association from  to /3e55ec13-5c51-4087-b657-3464082d02a5.
+Updated C16 fields.
+Updated C16 sheetname to 'Root'.
+Updated C16 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated C16 footprint filters to 'C_*'.
+Connected C16 pin 1 to /VOUT.
+Connected C16 pin 2 to GND.
+Added C17 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C17.
+Changed C17 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 10uF.
+Updated C17 symbol association from  to /3fcb8ce3-75a4-4dc4-8ae5-304c34109ee5.
+Updated C17 fields.
+Updated C17 sheetname to 'Root'.
+Updated C17 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated C17 footprint filters to 'C_*'.
+Connected C17 pin 2 to GND.
+Add net Net-(J1-VBUS).
+Connected C17 pin 1 to Net-(J1-VBUS).
+Added C18 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C18.
+Changed C18 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 10uF.
+Updated C18 symbol association from  to /bf8fe8a2-7e39-4c4e-be99-1289ef0bbc39.
+Updated C18 fields.
+Updated C18 sheetname to 'Root'.
+Updated C18 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated C18 footprint filters to 'C_*'.
+Add net Net-(J2-VBUS).
+Connected C18 pin 1 to Net-(J2-VBUS).
+Connected C18 pin 2 to GND.
+Updated C14 sheetname to 'Root'.
+Added C19 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C19.
+Changed C19 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 2.2uF.
+Updated C19 symbol association from  to /f62714eb-9b48-4dca-be03-ad18b1f4418e.
+Updated C19 fields.
+Updated C19 sheetname to 'Root'.
+Updated C19 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated C19 footprint filters to 'C_*'.
+Connected C19 pin 2 to GND.
+Connected C19 pin 1 to +12V.
+Added C1 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Added D1 (footprint 'Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder').
+Changed REF** reference designator to D1.
+Changed D1 value from D_0603_1608Metric_Pad1.05x0.95mm_HandSolder to LED_Filled.
+Updated D1 symbol association from  to /e141c6f9-6236-4e4f-9423-103b54fd7a2f.
+Updated D1 fields.
+Updated D1 sheetname to 'Root'.
+Updated D1 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated D1 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net Net-(D1-A).
+Connected D1 pin 2 to Net-(D1-A).
+Connected D1 pin 1 to GND.
+Changed REF** reference designator to C1.
+Added D2 (footprint 'Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder').
+Changed REF** reference designator to D2.
+Changed D2 value from D_0603_1608Metric_Pad1.05x0.95mm_HandSolder to LED_Filled.
+Updated D2 symbol association from  to /46838bdf-4686-4594-9151-cc60d0690727.
+Updated D2 fields.
+Updated D2 sheetname to 'Root'.
+Updated D2 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated D2 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net Net-(D2-A).
+Connected D2 pin 2 to Net-(D2-A).
+Connected D2 pin 1 to GND.
+Changed C1 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 0.47uF.
+Updated C1 symbol association from  to /335372d9-3a5d-4d5a-a8b4-353cd66d1977.
+Updated C1 fields.
+Added L1 (footprint 'Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder').
+Changed REF** reference designator to L1.
+Changed L1 value from L_0603_1608Metric_Pad1.05x0.95mm_HandSolder to 6.8uH.
+Updated L1 symbol association from  to /37fa4ad2-6970-476d-abc9-2c8cad30b114.
+Updated L1 fields.
+Updated L1 sheetname to 'Root'.
+Updated L1 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated L1 footprint filters to 'Choke_* *Coil* Inductor_* L_*'.
+Connected L1 pin 2 to /VOUT.
+Connected L1 pin 1 to /SW.
+Updated C1 sheetname to 'Root'.
+Added R1 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R1.
+Changed R1 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 2.1K.
+Updated R1 symbol association from  to /0eba38ee-2483-4a1f-a93c-bf059771c4f2.
+Updated R1 fields.
+Updated R1 sheetname to 'Root'.
+Updated R1 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Connected R1 pin 2 to /CS.
+Connected R1 pin 1 to /VOUT.
+Updated C1 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Added R2 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R2.
+Changed R2 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 112K.
+Updated R2 symbol association from  to /35ce431e-2ae0-4e6b-9935-65c3c85fc5c0.
+Updated R2 fields.
+Updated R2 sheetname to 'Root'.
+Updated R2 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated R2 footprint filters to 'R_*'.
+Connected R2 pin 2 to GND.
+Add net Net-(U1-RT).
+Connected R2 pin 1 to Net-(U1-RT).
+Updated C1 footprint filters to 'C_*'.
+Added R3 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R3.
+Changed R3 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 3.0R.
+Updated R3 symbol association from  to /b5b9785f-a7e4-41e9-a2fe-aed746a44e0d.
+Updated R3 fields.
+Updated R3 sheetname to 'Root'.
+Updated R3 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated R3 footprint filters to 'R_*'.
+Connected R3 pin 1 to /VOUT.
+Connected R3 pin 2 to /VOUT.
+Add net Net-(U1-CBOOT).
+Added R4 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R4.
+Changed R4 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 0R.
+Updated R4 symbol association from  to /766dea5a-03ff-4513-90cd-af29e92f0ade.
+Updated R4 fields.
+Updated R4 sheetname to 'Root'.
+Updated R4 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated R4 footprint filters to 'R_*'.
+Add net Net-(U1-SYNC).
+Connected R4 pin 1 to Net-(U1-SYNC).
+Connected R4 pin 2 to GND.
+Connected C1 pin 1 to Net-(U1-CBOOT).
+Added R5 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R5.
+Changed R5 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 47K.
+Updated R5 symbol association from  to /3486b6a7-176e-468b-bf43-bdb705569e36.
+Updated R5 fields.
+Updated R5 sheetname to 'Root'.
+Updated R5 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated R5 footprint filters to 'R_*'.
+Connected R5 pin 1 to /CS.
+Add net /FB.
+Connected R5 pin 2 to /FB.
+Add net /SW.
+Added R6 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R6.
+Changed R6 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 200K.
+Updated R6 symbol association from  to /e81fb007-7ae9-4c03-9c0f-d92360785fff.
+Updated R6 fields.
+Updated R6 sheetname to 'Root'.
+Updated R6 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated R6 footprint filters to 'R_*'.
+Connected R6 pin 2 to /FB.
+Connected R6 pin 1 to /CS.
+Connected C1 pin 2 to /SW.
+Added R7 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R7.
+Changed R7 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 10K.
+Updated R7 symbol association from  to /892a2c66-8db2-4780-a052-6eef2fc0a6a8.
+Updated R7 fields.
+Updated R7 sheetname to 'Root'.
+Updated R7 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated R7 footprint filters to 'R_*'.
+Connected R7 pin 1 to /FB.
+Connected R7 pin 2 to GND.
+Added C2 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Added R8 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R8.
+Changed R8 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 0R.
+Updated R8 symbol association from  to /d2c124ac-7850-4621-9b2c-24e613d258bc.
+Updated R8 fields.
+Updated R8 sheetname to 'Root'.
+Updated R8 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated R8 footprint filters to 'R_*'.
+Connected R8 pin 1 to /CS.
+Add net Net-(U2-CS).
+Connected R8 pin 2 to Net-(U2-CS).
+Changed REF** reference designator to C2.
+Added R9 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R9.
+Changed R9 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 0R.
+Updated R9 symbol association from  to /f95fb09a-5959-45ad-aa9c-b73250de8db6.
+Updated R9 fields.
+Updated R9 sheetname to 'Root'.
+Updated R9 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated R9 footprint filters to 'R_*'.
+Connected R9 pin 1 to /CS.
+Add net Net-(U3-CS).
+Connected R9 pin 2 to Net-(U3-CS).
+Changed C2 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 10uF.
+Added R10 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R10.
+Changed R10 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 20K.
+Updated R10 symbol association from  to /c2334109-bf59-453b-b08c-01f0eb29283c.
+Updated R10 fields.
+Updated R10 sheetname to 'Root'.
+Updated R10 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated R10 footprint filters to 'R_*'.
+Connected R10 pin 2 to GND.
+Add net Net-(U2-ILIM_LO).
+Connected R10 pin 1 to Net-(U2-ILIM_LO).
+Updated C2 symbol association from  to /327b265e-bf1d-4c05-9ce4-4cd48b15e5ac.
+Added R11 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R11.
+Changed R11 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 20K.
+Updated R11 symbol association from  to /95875f8f-b52c-4588-a41e-5449f336b5ed.
+Updated R11 fields.
+Updated R11 sheetname to 'Root'.
+Updated R11 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated R11 footprint filters to 'R_*'.
+Connected R11 pin 2 to GND.
+Add net Net-(U3-ILIM_LO).
+Connected R11 pin 1 to Net-(U3-ILIM_LO).
+Updated C2 fields.
+Added R12 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R12.
+Changed R12 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 715.
+Updated R12 symbol association from  to /d5bc29ee-c82b-4fe7-845a-510ada208e56.
+Updated R12 fields.
+Updated R12 sheetname to 'Root'.
+Updated R12 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated R12 footprint filters to 'R_*'.
+Connected R12 pin 2 to Net-(D1-A).
+Add net /DIM.
+Connected R12 pin 1 to /DIM.
+Updated C2 sheetname to 'Root'.
+Added R13 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R13.
+Changed R13 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 715.
+Updated R13 symbol association from  to /5c4f9f64-80ce-4307-932f-d32ab01887b4.
+Updated R13 fields.
+Updated R13 sheetname to 'Root'.
+Updated R13 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated R13 footprint filters to 'R_*'.
+Connected R13 pin 1 to /DIM.
+Connected R13 pin 2 to Net-(D2-A).
+Updated C2 sheetfile to 'HOPE USB Charger- Tatenda.kicad_sch'.
+Updated C2 footprint filters to 'C_*'.
+Add net GND.
+Error: Cannot add U1 (footprint 'AAMU Senior Design 2024-25:RNP0030A' not found).
+Error: Cannot add J2 (footprint 'AAMU Senior Design 2024-25:CUI_UJ2-AH-1-SMT' not found).
+Error: Cannot add U2 (footprint 'AAMU Senior Design 2024-25:RTE0016C' not found).
+Error: Cannot add J1 (footprint 'AAMU Senior Design 2024-25:CUI_UJ2-AH-1-SMT' not found).
+Error: Cannot add U3 (footprint 'AAMU Senior Design 2024-25:RTE0016C' not found).
+
+
+Info: Total warnings: 0, errors: 5.
